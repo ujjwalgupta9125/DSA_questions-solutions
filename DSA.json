@@ -646,7 +646,13 @@
      "topic":"DSA- Two Pointer",
      "question":"3Sum Closest",
      "answer_link":"https://leetcode.com/Luv_4929//"
-    }
+    },
+  {
+    "id":"786",
+      "topic":"Backtracking",
+      "questions":"Sudoku Solver",
+      "answer_link":"https://leetcode.com/problems/sudoku-solver/discuss/2672620/sodokuSolverjava-solution"
+  }
 ]
 
 
